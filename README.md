@@ -11,6 +11,8 @@ Another approach is to open the files directly from Colab.
 
 # OUTLINE
 ## Introduction and Review
+* [Colab Cheet Sheat](intro/Week_1_Intro_to_Colab.ipynb) - A quick intro to python in Google Colab
+* [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
 
