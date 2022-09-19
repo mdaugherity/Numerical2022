@@ -18,5 +18,6 @@ Another approach is to open the files directly from Colab.
 * [How Numbers are Stored](intro/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
 
 ## Systems of Linear Equations
+* [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
 
 ## Root Finding
