@@ -2,7 +2,7 @@
 ## Fall 2022
 Dr. Mike Daugherity, Abilene Christian University
 
-// This repository is for code and data files.  All other course information is posted on Canvas.
+This repository is for code and data files.  All other course information is posted on Canvas.
 
 ### Important Note 
 Github's notebook renderer is trash.  Pages will often not display correctly. 
