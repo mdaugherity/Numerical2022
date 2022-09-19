@@ -15,9 +15,8 @@ Another approach is to open the files directly from Colab.
 * [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
+* [How Numbers are Stored](intro/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
 
 ## Systems of Linear Equations
-
-## Interpolation and Fitting
 
 ## Root Finding
