@@ -21,3 +21,7 @@ Another approach is to open the files directly from Colab.
 * [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
 
 ## Root Finding
+* [Root Finding Class](roots/Week_4_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
+* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb)
+
+## Fitting and Interpolation
