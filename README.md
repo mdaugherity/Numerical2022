@@ -26,7 +26,7 @@ Another approach is to open the files directly from Colab.
 * [Multi-Dimensional Roots](roots/Week_5_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 
 ## Fitting and Interpolation
-* (Fitting Polynomials)[fits/Week_5_Fitting_Polynomials.ipynb] - examples of *polyfit* and *polyval*
+* [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
 
 ## Derivatives
 
