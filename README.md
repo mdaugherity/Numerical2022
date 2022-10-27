@@ -26,3 +26,10 @@ Another approach is to open the files directly from Colab.
 * **Multi-Dimensional Roots goes here**
 
 ## Fitting and Interpolation
+
+## Derivatives
+
+## Integrals
+
+## Differential Equations
+* [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
