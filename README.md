@@ -22,7 +22,7 @@ Another approach is to open the files directly from Colab.
 
 ## Root Finding
 * [Root Finding Class](roots/Week_4_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
-* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) | **Solution goes here**
+* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) | [Solution](roots/Week_4_Root_Finding_Solutions.ipynb)
 * **Multi-Dimensional Roots goes here**
 
 ## Fitting and Interpolation
