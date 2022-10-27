@@ -27,6 +27,9 @@ Another approach is to open the files directly from Colab.
 
 ## Fitting and Interpolation
 * [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
+* Linear Algebra placeholder
+* Curve_fit placeholder
+* [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
 
 ## Derivatives
 
