@@ -31,6 +31,8 @@ Another approach is to open the files directly from Colab.
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
 
 ## Derivatives
+* [First Derivative Intro](calc/Week_7_Derivatives_Intro.ipynb) - example of forwards, backwards, and centered differences
+* [Derivative Examples](calc/Week_7_Derivatives.ipynb) - using *gradient*, *derivative*, and splines for data points and functions
 
 ## Integrals
 
