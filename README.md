@@ -38,3 +38,4 @@ Another approach is to open the files directly from Colab.
 
 ## Differential Equations
 * [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
+* [Solve IVP](ode/Week_10_solveivp.ipynb) - examples using *scipy.integrate.solve_ivp*
