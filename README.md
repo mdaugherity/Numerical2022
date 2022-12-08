@@ -39,5 +39,6 @@ Another approach is to open the files directly from Colab.
 ## Differential Equations
 * [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
 * [Solve IVP](ode/Week_10_solveivp.ipynb) - examples using *scipy.integrate.solve_ivp* including t_eval, events, and stiff problems
+* [IVP Fits](ode/Week_10_IVP_Fits.ipynb) - using data points to fit parameters in *solve_ivp*
 * [BVP Shooting Methods](ode/Week_11_BVP.ipynb) - using the shooting method to solve BVP with trial-and-error
 * [Solve BVP](ode/Week_11_solvebvp_demo.ipynb) - showing how to use *scipy.integrate.solve_bvp*
